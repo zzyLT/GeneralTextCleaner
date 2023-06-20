@@ -1,0 +1,7 @@
+
+filter/~$*
+documents/
+*.xlsx
+*.xmind
+filter/__pycache__/
+filter/.ipynb_checkpoints/general filter-checkpoint.ipynb
