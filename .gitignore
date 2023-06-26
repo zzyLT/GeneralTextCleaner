@@ -4,4 +4,9 @@ documents/
 *.xlsx
 *.xmind
 filter/__pycache__/
-filter/.ipynb_checkpoints/general filter-checkpoint.ipynb
+filter/.ipynb_checkpoints
+*.ipynb
+filter/dist
+filter/build
+filter/SentenceExtractor.egg-info
+filter/SentenceExtractor/__pycache__/
